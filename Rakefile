@@ -1,4 +1,5 @@
 require 'gosu'
+require './lib/models/snake'
 require './rnake'
 
 task :default => :run
